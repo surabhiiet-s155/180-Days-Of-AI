@@ -9,7 +9,7 @@ One day • One concept • One project at a time
 
 </div>---
 
-🌌 About This Journey with me
+🌌 About This Journey with me....
 
 Welcome to my 180 Days of AI Challenge.
 
