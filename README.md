@@ -36,6 +36,8 @@ Improve 📈
    ↓
 Repeat 🔁
 
+To Stay Consistent 
+
 ---
 
 🗺️ Roadmap
