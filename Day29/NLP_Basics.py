@@ -5,7 +5,6 @@ sentences = [
     "I love machine learning",
     "Artificial intelligence is powerful"
 ]
-
 vectorizer = CountVectorizer()
 
 matrix = vectorizer.fit_transform(sentences)
