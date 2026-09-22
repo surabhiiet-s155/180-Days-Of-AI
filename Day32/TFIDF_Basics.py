@@ -5,7 +5,6 @@ documents = [
     "I love artificial intelligence",
     "Machine learning is powerful"
 ]
-
 vectorizer = TfidfVectorizer()
 
 tfidf_matrix = vectorizer.fit_transform(documents)
