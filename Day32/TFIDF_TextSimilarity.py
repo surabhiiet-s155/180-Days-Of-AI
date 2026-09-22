@@ -1,6 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
 documents = [
     "I love learning Python and machine learning",
     "Python and machine learning are interesting",
